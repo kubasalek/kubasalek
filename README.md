@@ -9,5 +9,5 @@ I'm Kuba. I'm studying computer science at University of Warsaw.
 ## Favorite technologies
 ![Favorite technologies](https://skillicons.dev/icons?i=python,js,html,css)
 
-## Still learning
+## Expanding my stack
 ![Still learning](https://skillicons.dev/icons?i=react,java)
