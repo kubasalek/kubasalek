@@ -7,7 +7,7 @@ I'm Kuba. I'm studying computer science at University of Warsaw.
 - mobile app "Mobilny Katolik"
 
 ## Favorite technologies
-![Favorite technologies](https://skillicons.dev/icons?i=python,js,html,css)
+[![Favorite technologies](https://skillicons.dev/icons?i=python,js,html,css,nodejs,postgres&theme=light)](https://skillicons.dev)
 
 ## Expanding my stack
-![Still learning](https://skillicons.dev/icons?i=react,java)
+[![Still learning](https://skillicons.dev/icons?i=react,nextjs,java&theme=light)](https://skillicons.dev)
